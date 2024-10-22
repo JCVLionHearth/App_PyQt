@@ -1,0 +1,8 @@
+ventana.ui
+este archivo representa la interfaz visual de la aplicación hecha mediante Qt Designer
+
+funciones.py
+en este archivo de python se crean las funciones para cifrar y descifrar el número dado
+
+Aplicacion.py
+Este es el archivo funcional que ejecuta la aplicación, el cuál reune el código de la interfaz gráfica (archivo .ui) y las funciones
